@@ -1,0 +1,2 @@
+donwlaod ardunino 1.8.10 
+set on Werkzeuge over ports ardunio uno and also on ports arduino uno
